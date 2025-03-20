@@ -4,6 +4,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,midjourney
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -27,4 +29,3 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,integrate.api.nvidia.com
-DOMAIN-SUFFIX,discord.com
