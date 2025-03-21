@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,manus
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
