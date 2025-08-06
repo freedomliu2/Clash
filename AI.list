@@ -10,6 +10,8 @@ DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,z-lib
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
