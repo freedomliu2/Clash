@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,midjourney
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,monica
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
